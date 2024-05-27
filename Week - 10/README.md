@@ -1,0 +1,14 @@
+# PIXSEL
+#### Video Demo:  <URL HERE>
+#### Description:
+Why did I create this website ?
+Here, in  India creativity-based industry remains largely untapped even with so much progress in technology. People still remain jobless or work on low wages even after gaining a professional degree in arts & sciences like Printing Technology, Photograhy and Filming. One of the many reasons being they are not able to reach out to people who demand their services or work with people who have prior experience in their respective fields. We help people to outsource their products and reach larger democraphic of people.
+
+How did I go about creating this website ?
+Well......
+I watched a lot of tutorials (like a lot!!!). Where people actually created colorful and responsive websites anywhere from websites for colleges, portfolio websites to full on e-commerce websites and streaming websites similar to youtube. I gained a lot of knowlegde on HTML CSS styles & attributes and also that versions for the Bootstrap and fontawesome icons really do matter.
+Day 1 - 2: I started with creating the index page of the webite. I used one the many youtube videos I watched as reference to how I want my home page to be. I started coding, used Bootstrap's color scheming and column attributes, used the CSS I learned from CS50's pset-8 and some youtube videos. I used a small website to 'href' the images to the HTML as they had file path link.
+Day 2 - 4: Now I had make some tweaks in the CSS as the website did not look great as well as not fully functional on a phone. So had to add some fontawesome icons and buttons to the HTML and CSS. Here I learned a lot about how versions of the applications largely affect the outcome of the program. It was a little frustrating at first as different tutorials used different versions. Finally settled with Bootstrap '5.0.2' and Fontawesome '5.15.3'.
+Day 4 - 5: Added one more container to website, where I put the social media links and learned some stuff about interactive animation. Went on to the footer section of the website. Used some icons and implemented a form section where people who are willing to join the community of creators and artists can type their email. The email will be stored in a database using SQLite and Python which I learned from CS50's pset-9.
+Day 6 : Was a little lazy to add multiple pages of the same HTML page with the same design. Since the description of the pset-9 mentioned that we could use javascript, so I added smooth scroll. Actually the code was written by Chris Ferdinandi on GitHub (http://github.com/cferdinandi/smooth-scroll).
+Day 7 - 8: I tried using different mailing services like 'mailgun' and 'mailman' but either was not able to understand them or fully implement them properly before I gave up. I tried hosting services like 'Wordpress' and 'Netlify' forms and mailing lists but was unlucky in that venture too.

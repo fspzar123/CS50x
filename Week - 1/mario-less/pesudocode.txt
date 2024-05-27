@@ -1,0 +1,9 @@
+Ask user for the height of block
+Then first print block one
+Then print the second row with increasing the number of blocks by 1
+Then continue increasing the numbers of blocks for every increasing row by 1
+Till the the height of the blocks (no.of rows of blocks) is equal to the user input in the beginning
+n = height
+i = column
+j = row
+k = spaces
